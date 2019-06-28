@@ -6,4 +6,4 @@ info
 - b
 - liste
 
-cc by 4.0
+cc by-nc 4.0
