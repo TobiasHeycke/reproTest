@@ -1,0 +1,37 @@
+Can we simultaneously like and dislike a thing or person? Could we genuinely attest to liking someone but predominantly associate them with negative concepts and experiences?
+Such a dissociation would suggest that our attitudes form via two (independent) processes.
+Indeed, dual processes assumptions are prominently discussed in the context of  evaluative learning [e.g., @gawronskiAssociativePropositionalProcesses2006] and have stimulated a vast amount of research. 
+Generally, dual-process theories of attitude formation postulate an automatic formation of mental associations as a result of stimulus co-occurrence, as well as the formation of more elaborate propositional beliefs as a result of "effortful, attention-demanding reasoning processes" [p. 186, @mitchellPropositionalNatureHuman2009]. 
+Most scholars agree that evaluative responses reflect both mental associations and propositional beliefs. 
+However, just how these independent representations are integrated depends, among other things, on the method used to gauge liking [@gawronskiAssociativePropositionalProcesses2006]. Hence, dissociations between evaluations which are dominated by propositional beliefs (e.g., ratings) and other evaluations which are dominated by mental associations (e.g., simple response facilitation effects) are consistent with the assumption of dual processes.
+
+Despite their prominence in theoretical discussions, the empirical evidence for dual evaluative learning processes and specifically for an independent automatic formation of mental associations is weak [@corneilleAssociativeAttitudeLearning2018a]. The absence of compelling evidence for automatic associations, however, make tenable the simpler single-process assumption that only propositional beliefs (and not simple mental associations) underlie our attitudes  [e.g., @de_houwer_propositional_2018].
+
+Although overall the empirical support for dual-processes in evaluative learning is weak, one widely received experimental finding is particularly difficult to reconcile with propositional single-process accounts:
+@rydell_two_2006 report that participants simultaneously liked and disliked a person when their attitudes were gauged in explicit evaluative ratings and the Implicit Association Test (IAT).  
+For example, participants expressed a positive attitude towards a person in evaluative ratings, but simultaneously exhibited negative attitudes towards that person in an IAT. 
+These conflicting attitudes were experimentally induced by repeatedly pairing a photograph of a person named Bob with a very briefly presented negative (or positive) word, which participants did not register, followed immediately by a positive or negative behavioral statement about Bob. 
+On each trial, participants guessed whether the behavioral statement was characteristic of Bob or not. 
+Participants received feedback from which they learned that Bob was a good (or bad) person, which had always the opposite valence of the briefly presented valent words. 
+This dissociation between evaluative ratings and IAT scores is specifically predicted by the dual-process systems of reasoning approach [which makes the strong assumption that ratings reflect only propositional beliefs and IAT scores only reflect mental associations; @rydellUnderstandingImplicitExplicit2006]. 
+Moreover, although not strictly predicted by them, this dissociation is consistent with and has been cited in support of other dual-process theories [e.g., @gawronskiAssociativePropositionalEvaluation2011, in total the study has been cited 337 times, Google Scholar, 23.04.2020].
+
+Conflicting explicit and implicit evaluations as reported by @rydell_two_2006 is relevant to other dual-process theories in as much as it is compelling evidence against single-process propositional theories in evaluative learning. 
+The dissociation is difficult to explain solely with propositional beliefs because propositional processing is assumed to produce conscious, declarative, propositional knowledge. 
+Even when propositional processing is defined more loosely and one accepts that the briefly presented words elicit feelings that subserve the formation of evaluative propositions [@gawronski_what_2012], it is unclear how single-process theories could accommodate conflicting implicit and explicit evaluations of the same person. 
+Thus, a replication of the dissociation reported by @rydell_two_2006, would strengthen the case against propositional single-process theories of human evaluative learning.
+
+A recent study, composed of two experiments, however, did not replicate the dissociative effect [@heycke_two_2018]. 
+Instead, both implicit and explicit evaluations consistently reflected the valence of the learned behavioral information. 
+At present, it remains unclear whether these unsuccessful attempts call into question the replicability of the original study or point towards boundary conditions. 
+This ambiguity is due to the modifications made to the original materials and procedure in the replication studies:
+First, some words were replaced to ensure that no words presented in the learning phase served as distractors in a memory assessment at the end of the study [see @heycke_two_2018]. 
+Second, one experiment used German translations of the verbal material (rather than the original English material). Third, the other experiment, while using the original material, was conducted with a modified procedure: 
+Because a subset of participants correctly identified briefly presented words in a recognition test after the learning task in the first experiment, the presentation duration was reduced from 25 ms to 16 ms to ensure at-chance post-learning recognition.
+
+In the current study we will rigorously test the replicability of the original findings reported by @rydell_two_2006 by closely adhering to the original procedure. 
+To ensure its informativeness, the current replication attempt was a joint effort that involved researchers from different labs that all have expertise in studying evaluative conditioning and implicit measures. 
+Moreover, both the first author of the original study and authors of the unsuccessful replication attempts collaborated on the studies presented here. 
+To explore the generality of our results, data were collected in multiple countries and languages. 
+In a first, already concluded, experiment we have conducted a close replication in three different locations. 
+In a second experiment, for which the data has not been collected yet, we will use the knowledge gained from the first experiment to adjust the procedure to closely replicate the psychological conditions of the original study.
